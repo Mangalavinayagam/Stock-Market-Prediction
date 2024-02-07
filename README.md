@@ -53,10 +53,6 @@ The script generates a plot showing the predicted and actual stock prices, provi
 
 Feel free to contribute by opening issues or creating pull requests. Your feedback and improvements are highly appreciated!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Feel free to customize the README based on your preferences and add any additional information you find relevant!
